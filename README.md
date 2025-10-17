@@ -15,8 +15,13 @@ Insert the downloaded folder to the local repo directory.
    git clone <repository-url>
    cd SalinTalaDemo
    ```
+2. **Model Directory**
 
-2. **Create and activate a virtual environment**:
+   Download the fine-tuned model folder from: [https://tinyurl.com/salintalademo](https://tinyurl.com/salintalademo)
+
+   Insert the downloaded folder to the local repo directory.
+
+3. **Create and activate a virtual environment**:
 
    **For macOS/Linux**:
    ```bash
@@ -30,13 +35,13 @@ Insert the downloaded folder to the local repo directory.
    venv\Scripts\activate
    ```
 
-3. **Install dependencies**:
+4. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 See `requirements.txt` for complete dependency list.
 
-4. **Run the application**:
+5. **Run the application**:
    ```bash
    streamlit run salintala.py
    ```
