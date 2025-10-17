@@ -51,6 +51,6 @@ See `requirements.txt` for complete dependency list.
 
 ## Model Directory
 
-Download the fine-tuned model files from: [https://tinyurl.com/salintalademo](https://tinyurl.com/salintalademo)
+Download the fine-tuned model folder from: [https://tinyurl.com/salintalademo](https://tinyurl.com/salintalademo)
 
-Extract the downloaded files to the `mbart50-finetuned-LoRA-best/` directory in your project root.
+Insert the downloaded folder to the local repo directory.
