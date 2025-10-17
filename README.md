@@ -32,7 +32,7 @@ See `requirements.txt` for complete dependency list.
 
 4. **Run the application**:
    ```bash
-   python salintala.py
+   streamlit run salintala.py
    ```
 
    The app will automatically open in your browser at `http://localhost:8501`
