@@ -10,13 +10,27 @@ A Streamlit application that compares vanilla mBART50 with a fine-tuned LoRA mod
    cd SalinTalaDemo
    ```
 
-2. **Install dependencies**:
+2. **Create and activate a virtual environment**:
+
+   **For macOS/Linux**:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+
+   **For Windows**:
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
+   ```
+
+3. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 See `requirements.txt` for complete dependency list.
 
-3. **Run the application**:
+4. **Run the application**:
    ```bash
    python salintala.py
    ```
