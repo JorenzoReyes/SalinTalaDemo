@@ -2,12 +2,6 @@
 
 A Streamlit application that compares baseline mBART50 with a fine-tuned LoRA model for Filipino/Taglish to English translation. The app provides side-by-side translation comparisons with confidence scores and evaluation metrics.
 
-## Model Directory
-
-Download the fine-tuned model folder from: [https://tinyurl.com/salintalademo](https://tinyurl.com/salintalademo)
-
-Insert the downloaded folder to the local repo directory.
-
 ## Installation
 
 1. **Clone the repository**:
