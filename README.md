@@ -1,6 +1,6 @@
 # SalinTala Demo
 
-A Streamlit application that compares vanilla mBART50 with a fine-tuned LoRA model for Filipino/Taglish to English translation. The app provides side-by-side translation comparisons with confidence scores and evaluation metrics.
+A Streamlit application that compares baseline mBART50 with a fine-tuned LoRA model for Filipino/Taglish to English translation. The app provides side-by-side translation comparisons with confidence scores and evaluation metrics.
 
 ## Installation
 
