@@ -7,7 +7,7 @@ A Streamlit application that compares baseline mBART50 with a fine-tuned LoRA mo
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd SalinTalaDemo
+   cd <repository-url>
    ```
 2. **Model Directory**
 
